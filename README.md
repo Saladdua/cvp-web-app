@@ -17,8 +17,8 @@ INNO CVPT is specifically optimized for **Recruitment** workflows, featuring int
 
 <div align="center">
     
-[![Download](https://img.shields.io/badge/Download-Google%20Drive-0F9D58?labelColor=black&logo=google-drive&style=for-the-badge)](https://drive.google.com/file/d/1zcVNYadhuWsKsUGAKjtAkegBorvdCqZf/view?usp=sharing)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blueviolet?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Link](https://img.shields.io/badge/Download-Google%20Drive-0F9D58?labelColor=black&logo=google-drive&style=for-the-badge)](https://drive.google.com/file/d/1zcVNYadhuWsKsUGAKjtAkegBorvdCqZf/view?usp=sharing)
+[![Made with AppScript](https://img.shields.io/badge/Made%20with-AppScript-blueviolet?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Powered by LandingAI](https://img.shields.io/badge/Powered%20by-LandingAI-orange?style=for-the-badge)](https://landing.ai/)
 
 </div>
